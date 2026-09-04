@@ -1,1 +1,1 @@
-#Algunos de los proyectos que realice para analisis y mineria de datos
+Algunos de los proyectos que realice para analisis y mineria de datos
